@@ -1,0 +1,11 @@
+{   
+    "mongoURI": "mongodb://localhost:27017/test?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
+    "mongoLocal":"mongodb://localhost:27017/AuthManager",
+    "jwtSecret": "uscc",
+    "baseUrl": "http://localhost:3000/auth",
+    "mailSenderEmailId": "",
+    "mailSenderPwd": "",
+    "clientID": "",
+    "clientSecret": ""
+
+}
